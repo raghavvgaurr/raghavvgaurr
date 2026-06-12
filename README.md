@@ -89,7 +89,7 @@ My engineering approach combines:
 ## Cloud, DevOps & Tooling
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,hugging space " />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman/>
 </p>
 
 ---
